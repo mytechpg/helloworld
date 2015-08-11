@@ -1,5 +1,5 @@
 CC ?= 
-CFLAGS ?= -g
+CFLAGS ?=
 LFLAGS ?=
 RM ?= rm -f 
 
